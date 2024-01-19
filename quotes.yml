@@ -1,9 +1,9 @@
-- quote: Hello world
-  name: Anonymous
+- quote: "Be yourself; everyone else is already taken."
+  name: Oscar Wilde
   image: random
 
-- quote: Next quote
-  name: Nate Lampton
+- quote: "Be the change that you wish to see in the world."
+  name: Mahatma Gandhi
 
-- quote: Third quote hello
-  name: Aaron Haug
+- quote: "Darkness cannot drive out darkness: only light can do that.\n\nHate cannot drive out hate: only love can do that."
+  name: Martin Luther King Jr.

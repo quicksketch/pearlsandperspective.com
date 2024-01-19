@@ -1,4 +1,5 @@
 .idea
 app/deploy/node_modules
-app/site/quotes.json
+app/site/images/
 app/site/images.json
+app/site/quotes.json
