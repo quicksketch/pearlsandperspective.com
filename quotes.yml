@@ -1,9 +1,15 @@
 - quote: "Be yourself; everyone else is already taken."
   name: Oscar Wilde
-  image: random
+  image: f9fcb300063145cfaa53c6fec692bff2.jpg
+  tags:
+    - inspirational
+    - action
 
 - quote: "Be the change that you wish to see in the world."
   name: Mahatma Gandhi
+  tags:
+    - inspirational
+    - action
 
 - quote: "Darkness cannot drive out darkness: only light can do that.\n\nHate cannot drive out hate: only love can do that."
   name: Martin Luther King Jr.
@@ -13,3 +19,5 @@
 
 - quote: "Action alleviates anxiety"
   name: Unknown
+  tags:
+    - action
