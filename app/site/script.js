@@ -119,7 +119,9 @@ function bindTagSelector() {
 
   // Bind the hide/show behavior of the tag list selector (gear icon).
   const toggleLink = document.getElementById('tag-selector-toggle');
-  toggleLink.addEventListener('click', (event) => {
+  toggleLink.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
     if (tagList.classList.contains('tag-list--closed')) {
       tagList.classList.remove('tag-list--closed');
       tagList.classList.add('tag-list--open');
@@ -162,7 +164,7 @@ async function showRandomQuote() {
   attrElement.classList.add('fade-out');
 
   // Wait while previous quote is fading.
-  await sleep(1500);
+  await sleep(2000);
 
   // Swap the IDs of the background images so that the next image will be
   // replaced with the next quote's image.
