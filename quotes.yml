@@ -14,10 +14,33 @@
 - quote: "Darkness cannot drive out darkness: only light can do that.\n\nHate cannot drive out hate: only love can do that."
   name: Martin Luther King Jr.
 
-- quote: "I am become death, the destroyer of worlds."
-  name: J Robert Oppenheimer
-
 - quote: "Action alleviates anxiety"
-  name: Unknown
+  name: 
   tags:
+    - action
+
+- quote: "Even a small light decreases the darkness."
+  name: 
+  tags:
+    - inspirational
+
+- quote: "Almost everything is noise, and a very few things are exceptionally valuable."
+  name: Greg McKeown
+  tags:
+    - inspirational
+
+- quote: "Our life is frittered away by detail. Simplify, simplify, simplify!"
+  name: Henry David Thoreau
+  tags:
+    - inspirational
+
+- quote: "Contribution is the only value."
+  name: Hideo Sasaki
+  tags:
+    - inspirational
+
+- quote: "We must only begin."
+  name: Epictetus
+  tags:
+    - inspirational
     - action
