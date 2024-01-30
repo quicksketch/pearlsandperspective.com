@@ -71,7 +71,7 @@ async function init() {
   setNextQuote(getRandomQuote());
 
   // Set initial background image.
-  document.getElementById('background-image-current').style.backgroundImage = 'url(images/' + currentQuote.image + ')';
+  document.getElementById('background-image-current').style.backgroundImage = 'url(images/' + encodeURIComponent(currentQuote.image) + ')';
 
   // Fade in the initial quote.
   document.getElementById('quote-text').classList.remove('fade-out');
@@ -209,7 +209,7 @@ function setCurrentQuote(quote) {
 
 function setNextQuote(quote) {
   const imageElement = document.getElementById('background-image-next');
-  imageElement.style.backgroundImage = 'url(images/' + quote.image + ')';
+  imageElement.style.backgroundImage = 'url(images/' + encodeURIComponent(quote.image) + ')';
   quoteData.nextQuote = quote;
 }
 
