@@ -1,40 +1,15 @@
-- quote: "Be yourself; everyone else is already taken."
-  name: Oscar Wilde 
-  tags:
-    - inspirational
-    - action
-
-- quote: "Be the change that you wish to see in the world."
-  name: Mahatma Gandhi
-  tags:
-    - inspirational
-    - action
-
-- quote: "Darkness cannot drive out darkness: only light can do that.\n\nHate cannot drive out hate: only love can do that."
-  name: Martin Luther King Jr.
-
-- quote: "Action alleviates anxiety"
-  name: 
-  tags:
-    - action
-
 - quote: "Even a small light decreases the darkness."
   name: 
   tags:
     - do what you can
 
-- quote: "Focus on what you can control. Accept what you cannot."
+- quote: "Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."
   name: 
-  tags:
-    - do what you can
-
-- quote: "Almost everything is noise, and a very few things are exceptionally valuable."
-  name: Greg McKeown
   tags:
     - inspirational
 
-- quote: "Our life is frittered away by detail. Simplify, simplify, simplify!"
-  name: Henry David Thoreau
+- quote: "Almost everything is noise, and a very few things are exceptionally valuable."
+  name: Greg McKeown
   tags:
     - inspirational
 
@@ -48,3 +23,23 @@
   tags:
     - inspirational
     - action
+
+- quote: "Linked, not ranked."
+  name: Gloria Steinem
+  tags:
+    - inspirational
+
+- quote: "True wisdom lies in gathering the precious things out of each day as it goes by."
+  name: E.S. Bouton
+  tags:
+    - inspirational
+
+- quote: "Start writing, no matter what. The water does not flow until the faucet is turned on."
+  name: Louis L'Amour
+  tags:
+    - inspirational
+
+- quote: "Start where you are. Use what you have. Do what you can."
+  name: Arthur Ashe
+  tags:
+    - inspirational
